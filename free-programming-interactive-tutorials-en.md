@@ -94,7 +94,9 @@
 
 
 ### JavaScript
+* [ABC of JavaScript : An Interactive JavaScript Tutorial](http://www.openjs.com/tutorials/basic_tutorial/)
 * [Codecademy jquery track](http://www.codecademy.com/tracks/jquery)
+* [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
 * [Javascript Foundations](http://gymnasium.aquent.com/catalog/course/104)
 * [Javascript interactive tutorial on CodeCademy](http://www.codecademy.com/tracks/javascript)
 * [Javascript interactive tutorial on CoderMania](http://www.codermania.com/javascript/lesson/1a/hello-world)
@@ -104,7 +106,7 @@
 * [Learn JavaScript](http://www.learn-js.org/)
 * [Learn knockout.js](http://learn.knockoutjs.com)
 * [Try jQuery](http://try.jquery.com/)
-* [Functional Programming in Javascript](https://github.com/ReactiveX/learnrx)
+
 
 
 ### Language Agnostic
