@@ -1,7 +1,7 @@
 ### Index
 
-* [Méta-listes](#méta-listes)
-* [Non dépendant du langage](#non-dépendant-du-langage)
+* [0 - Méta-listes](#0---méta-listes)
+* [1 - Non dépendant du langage](#1---non-dépendant-du-langage)
   * [Algorithmique](#algorithmique)
   * [Logiciels libres](#logiciels-libres)
   * [Makefile](#makefile)
@@ -37,23 +37,25 @@
 * [Sage](#sage)
 * [Scilab](#scilab)
 * [SPIP](#spip)
+* [Systèmes d'exploitation](#systemes-d-exploitation)
+* [TEI](#TEI)
 * [Vim](#vim)
 
 
-### Méta-listes
+### 0 - Méta-listes
 
 * [Le SILO: Sciences du numérique &amp; Informatique au Lycée: Oui!](https://wiki.inria.fr/sciencinfolycee/Accueil)
 
 
-### Non dépendant du langage
+### 1 - Non dépendant du langage
 
 #### Algorithmique
 
-* [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours) - Michel Quercia
+* [Algorithmique](http://pauillac.inria.fr/~quercia/cdrom/cours/) - Michel Quercia
 * [Complexité algorithmique](http://www.liafa.univ-paris-diderot.fr/~sperifel/livre_complexite.html) - Sylvain Perifel
 * [Éléments d'algorithmique](http://www-igm.univ-mlv.fr/~berstel/Elements/Elements.pdf) - D. Beauquier, J. Berstel, et Ph. Chrétienne (PDF)
 * [France-IOI](http://www.france-ioi.org)
-* [Prologin](http://www.prologin.org)
+* [Prologin](https://prologin.org)
 
 
 #### Logiciels libres
@@ -61,7 +63,7 @@
 * [Histoires et cultures du libres](http://framabook.org/histoiresetculturesdulibre/)
 * [Option libre. Du bon usage des licences libres](http://framabook.org/optionlibre-dubonusagedeslicenceslibres/) - Jean Benjamin
 * [Produire du logiciel libre](http://framabook.org/produire-du-logiciel-libre-2/) - Karl Fogel
-* [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre/) - R.M. Stallman, S. Williams et C. Masutti
+* [Richard Stallman et la révolution du logiciel libre](http://framabook.org/richard-stallman-et-la-revolution-du-logiciel-libre-2/) - R.M. Stallman, S. Williams et C. Masutti
 
 
 #### Makefile
@@ -109,12 +111,12 @@
 ### C / C++
 
 * [Cours de C/C++](http://casteyde.christian.free.fr/cpp/cours/online/book1.html) - Christian Casteyde
-* [Le C en 20 heures](http://framabook.org/6-le-c-en-20-heures/) - Eric Berthomier et Daniel Schang
+* [Le C en 20 heures](http://framabook.org/le-c-en-20-heures-2/) - Eric Berthomier et Daniel Schang
 
 
 ### Coq
 
-* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt) - Yves Bertot et Pierre Castéran
+* [Le Coq'Art (V8)](http://www.labri.fr/perso/casteran/CoqArt/) - Yves Bertot et Pierre Castéran
 * [Preuves de programmes en coq](http://fuscia.inrialpes.fr/cours/coq/) - Yves Bertot
 
 
@@ -142,7 +144,7 @@
 
 ### jQuery
 
-* [Apprendre jQuery](http://sutterlity.gitbooks.io/apprendre-jquery/) - Sutterlity Laurent
+* [Apprendre jQuery](https://sutterlity.gitbooks.io/apprendre-jquery/content/) - Sutterlity Laurent
 
 
 ### Haskell
@@ -155,10 +157,9 @@
 
 #### LaTeX
 
-* [Détecter et résoudre
-les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
+* [Détecter et résoudre les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du LaTeX Companion 2006, par Frank Mittelbach et Michel Goossens, mis à disposition par l'éditeur dans l'onglet « Compléments »
 * [LaTeX... pour le prof de maths !](http://math.univ-lyon1.fr/irem/IMG/pdf/LatexPourProfMaths.pdf) - Arnaud Gazagnes (PDF)
-* [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/5-tout-ce-que-vous-avez-toujours-voulu-savoir-sur-latex-sans-jamais-oser-le-demander/) - Vincent Lozano
+* [Tout ce que vous avez toujours voulu savoir sur LaTeX sans jamais oser le demander](http://framabook.org/tout-sur-latex/) - Vincent Lozano
 * [(Xe)LaTeX appliqué aux sciences humaines](http://geekographie.maieul.net/95) - Maïeul Rouquette
 
 
@@ -197,7 +198,7 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 
 ### Meteor
 
-* [Apprendre Meteor](http://mquandalle.gitbooks.io/apprendre-meteor/) - Maxime Quandalle
+* [Apprendre Meteor](https://mquandalle.gitbooks.io/apprendre-meteor/content/) - Maxime Quandalle
 * [Discover Meteor](http://fr.discovermeteor.com) - Tom Coleman et Sacha Greif
 
 
@@ -210,14 +211,14 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 ### PHP
 
 * [Cours de PHP 5](http://g-rossolini.developpez.com/tutoriels/php/cours/?page=introduction) - Guillaume Rossolini
-* [Initiation au PHP](http://www.framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
+* [Initiation au PHP](http://framasoft.net/IMG/pdf/initiation_php.pdf) - David Ducrocq (PDF)
 * [Programmer en PHP](http://www.lincoste.com/ebooks/pdf/informatique/programmer_php.pdf) - Julien Gaulmin (PDF)
 
 
 ### Python
 
 * [Appendre à programmer avec Python](http://inforef.be/swi/python.htm) - Gerard Swinnen
-* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/articles/34/dropbox-a-des-fuites)
+* [Dropbox a des fuites ! Un aperçu de la rétro-ingénierie des programmes Python](http://pdp.microjoe.org/tutoriels/280/dropbox-a-des-fuites/)
 * [Python](http://www.lincoste.com/ebooks/pdf/informatique/python.pdf) - Guido Van Rossum (PDF)
 * [Une introduction à Python 3](https://perso.limsi.fr/pointal/python:courspython3) - Bob Cordeau et Laurent Pointal
 
@@ -253,7 +254,17 @@ les problèmes](http://www.pearson.fr/livre/?GCOI=27440100048330), Annexe B du 
 * [Programmer avec SPIP](http://programmer.spip.net) - Matthieu Marcimat et collectif SPIP
 
 
+### Systèmes d'exploitation
+
+* [Simple OS (SOS)](http://sos.enix.org/fr/SOSDownload) - David Decotigny et Thomas Petazzoni
+
+
+### TEI
+
+* [Qu'est-ce que la Text Encoding Initiative ?](http://books.openedition.org/oep/1237) - Lou Burnard, trad. par Marjorie Burghart
+
+
 ### Vim
 
 * [Learn Vim Progressively](http://yannesposito.com/Scratch/fr/blog/Learn-Vim-Progressively/)
-* [Vim pour les humains](http://vimebook.com) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)
+* [Vim pour les humains](https://vimebook.com/fr) - Vincent Jousse (le livre n'est pas **gratuit** mais **à prix libre**)

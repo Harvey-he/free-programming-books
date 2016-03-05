@@ -3,14 +3,12 @@
 * [Android](#android)
 * [HTML & CSS](#html-css)
 * [Javascript](#javascript)
-* [NoSQL](#nosql)
 * [PHP](#php)
 
 
 ### Android
 
 * [Tutorial Membuat Aplikasi Android **Special Edition**](http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
-* [Tutorial Membuat Aplikasi Audioplayer Android](https://www.scribd.com/doc/258469346/Android-Tutorial-Audioplayer-Murottal-Pondokprogrammer-Mobile)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
 
 
@@ -22,12 +20,17 @@
 ### javascript
 
 * [Mengenal Javascript](http://masputih.com/2013/01/ebook-gratis-mengenal-javascript)
-* [Otomatisasi dengan gulp.js](http://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/)
+* [Otomatisasi dengan gulp.js](https://kristories.gitbooks.io/otomatisasi-dengan-gulp-js/content/)
+
+
+### Node.js
+
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
 
 
 ### NoSQL
 
-* [MongoDB Untuk Indonesia](http://kristories.gitbooks.io/mongodb-untuk-indonesia/)
+* [MongoDB Untuk Indonesia](https://kristories.gitbooks.io/pengantar-mongodb/content/)
 
 
 ### php
